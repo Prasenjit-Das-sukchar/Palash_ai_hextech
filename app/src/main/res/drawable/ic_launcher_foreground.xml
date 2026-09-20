@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Robot Antenna -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF22E1F5"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M54,28 L54,34" />
+    <path
+        android:fillColor="#FFAAFF5C"
+        android:pathData="M54,26m-3.5,0a3.5,3.5 0,1 1,7 0a3.5,3.5 0,1 1,-7 0" />
+    <!-- Ears / Headphone nodules -->
+    <path
+        android:fillColor="#FF22E1F5"
+        android:pathData="M27,47c0,-2 2,-4 4,-4h2v22h-2c-2,0 -4,-2 -4,-4z" />
+    <path
+        android:fillColor="#FF22E1F5"
+        android:pathData="M75,43h2c2,0 4,2 4,4v14c0,2 -2,4 -4,4h-2z" />
+    <!-- Robot Head Main Base -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M37,34h34c4.5,0 8,3.5 8,8v20c0,5 -3.5,8.5 -8,8.5h-34c-4.5,0 -8,-3.5 -8,-8.5v-20c0,-4.5 3.5,-8 8,-8z" />
+    <!-- Robot Visor Screen (Dark Violet/Cyan) -->
+    <path
+        android:fillColor="#FF210C42"
+        android:pathData="M36,41h36c2.2,0 4,1.8 4,4v11c0,2.2 -1.8,4 -4,4h-36c-2.2,0 -4,-1.8 -4,-4v-11c0,-2.2 1.8,-4 4,-4z" />
+    <!-- Glowing Cyan Robot Eyes -->
+    <path
+        android:fillColor="#FF22E1F5"
+        android:pathData="M44,48m-3.5,0a3.5,3.5 0,1 1,7 0a3.5,3.5 0,1 1,-7 0" />
+    <path
+        android:fillColor="#FF22E1F5"
+        android:pathData="M64,48m-3.5,0a3.5,3.5 0,1 1,7 0a3.5,3.5 0,1 1,-7 0" />
+    <!-- Eye highlights -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M45,46.5m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M65,46.5m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <!-- Smiling Mouth -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF7049B9"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M48,63 Q54,68 60,63" />
+    <!-- Translation Language Badge pill underneath -->
+    <path
+        android:fillColor="#FFAAFF5C"
+        android:pathData="M38,74h32c2,0 3.5,1.5 3.5,3.5c0,2 -1.5,3.5 -3.5,3.5h-32c-2,0 -3.5,-1.5 -3.5,-3.5c0,-2 1.5,-3.5 3.5,-3.5z" />
+    <!-- Little dot indicators in pill -->
+    <path
+        android:fillColor="#FF210C42"
+        android:pathData="M46,77.5m-1.2,0a1.2,1.2 0,1 1,2.4 0a1.2,1.2 0,1 1,-2.4 0" />
+    <path
+        android:fillColor="#FF210C42"
+        android:pathData="M54,77.5m-1.2,0a1.2,1.2 0,1 1,2.4 0a1.2,1.2 0,1 1,-2.4 0" />
+    <path
+        android:fillColor="#FF210C42"
+        android:pathData="M62,77.5m-1.2,0a1.2,1.2 0,1 1,2.4 0a1.2,1.2 0,1 1,-2.4 0" />
+</vector>

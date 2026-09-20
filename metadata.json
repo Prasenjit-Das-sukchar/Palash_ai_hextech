@@ -1,0 +1,7 @@
+{
+  "name": "PALASH AI",
+  "description": "Multilingual regional language AI assistant for Santali, Ho, Mundari, and Hindi with file conversion, speech translation, and visual AI lens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
